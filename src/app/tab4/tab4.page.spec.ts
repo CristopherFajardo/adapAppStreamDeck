@@ -14,7 +14,7 @@ describe('Tab4Page', () => {
       declarations: [Tab4Page],
       imports: [IonicModule.forRoot(), ExploreContainerComponentModule]
     }).compileComponents();
-
+ 
     fixture = TestBed.createComponent(Tab4Page);
     component = fixture.componentInstance;
     fixture.detectChanges();
