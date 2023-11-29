@@ -1,0 +1,242 @@
+.options-list,
+.options-list * {
+  box-sizing: border-box;
+}
+.options-list {
+  background: linear-gradient(
+      180deg,
+      rgba(0, 40, 101, 0.18) 0%,
+      rgba(2, 20, 30, 0.2) 7.8125%,
+      rgba(11, 50, 72, 0.2) 39.58333432674408%,
+      rgba(13, 50, 74, 0.2) 39.59333300590515%,
+      rgba(124, 15, 161, 0) 100%
+    ),
+    linear-gradient(0deg, rgba(12, 34, 233, 0.2) 0%, rgba(0, 0, 0, 0) 100%),
+    linear-gradient(180deg, rgba(255, 0, 0, 0.2) 0%, rgba(0, 0, 0, 0) 100%),
+    linear-gradient(to left, #6d16dc, #6d16dc);
+  border-style: solid;
+  border-color: rgba(39, 18, 168, 0.13);
+  border-width: 1px;
+  width: 430px;
+  height: 932px;
+  position: relative;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  overflow: hidden;
+}
+.frame-19 {
+  background: #140034;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  width: 430px;
+  height: 847px;
+  position: absolute;
+  left: 0px;
+  top: 85px;
+  overflow: hidden;
+}
+.frame-20 {
+  background: rgba(16, 46, 103, 0.63);
+  border-radius: 15px;
+  width: 430px;
+  height: 106px;
+  position: absolute;
+  left: 0px;
+  top: 23px;
+  overflow: hidden;
+}
+.frame-21 {
+  background: rgba(16, 46, 103, 0.63);
+  border-radius: 15px;
+  width: 430px;
+  height: 106px;
+  position: absolute;
+  left: 0px;
+  top: 158px;
+  overflow: hidden;
+}
+.frame-22 {
+  background: rgba(16, 46, 103, 0.63);
+  border-radius: 15px;
+  width: 430px;
+  height: 106px;
+  position: absolute;
+  left: 0px;
+  top: 293px;
+  overflow: hidden;
+}
+.frame-23 {
+  background: rgba(16, 46, 103, 0.63);
+  border-radius: 15px;
+  width: 430px;
+  height: 106px;
+  position: absolute;
+  left: 0px;
+  top: 428px;
+  overflow: hidden;
+}
+.frame-24 {
+  background: rgba(16, 46, 103, 0.63);
+  border-radius: 15px;
+  width: 430px;
+  height: 106px;
+  position: absolute;
+  left: -7px;
+  top: 563px;
+  overflow: hidden;
+}
+.frame-25 {
+  background: rgba(16, 46, 103, 0.63);
+  border-radius: 15px;
+  width: 430px;
+  height: 106px;
+  position: absolute;
+  left: 0px;
+  top: 697px;
+  overflow: hidden;
+}
+.frame-26 {
+  background: rgba(0, 0, 0, 0.63);
+  width: 430px;
+  height: 85px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: hidden;
+}
+.icon-profile-circle {
+  position: absolute;
+  inset: 0;
+}
+.group {
+  position: absolute;
+  left: 360px;
+  top: 17px;
+  overflow: visible;
+}
+.icon-menu {
+  position: absolute;
+  inset: 0;
+}
+.group2 {
+  position: absolute;
+  left: 31px;
+  top: 31px;
+  overflow: visible;
+}
+.frame-27 {
+  background: #140034;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  width: 430px;
+  height: 847px;
+  position: absolute;
+  left: 0px;
+  top: 85px;
+  box-shadow: inset 0px 7px 7px 0px rgba(0, 0, 0, 0.25);
+  overflow: hidden;
+  backdrop-filter: blur(7.5px);
+}
+.cuenta-redes {
+  color: #ffffff;
+  text-align: left;
+  font: 400 60px "Karantina", sans-serif;
+  position: absolute;
+  left: 135px;
+  top: 23px;
+}
+.tabler-settings {
+  width: 76px;
+  height: 76px;
+  position: absolute;
+  left: 14px;
+  top: 15px;
+  overflow: hidden;
+}
+.group3 {
+  position: absolute;
+  left: 9.5px;
+  top: 9.5px;
+  overflow: visible;
+}
+.ajustes {
+  color: #ffffff;
+  text-align: left;
+  font: 400 60px "Karantina", sans-serif;
+  position: absolute;
+  left: 179px;
+  top: 23px;
+}
+.tabler-shield {
+  position: absolute;
+  left: 13px;
+  top: 15px;
+  overflow: visible;
+}
+.seguridad {
+  color: #ffffff;
+  text-align: left;
+  font: 400 60px "Karantina", sans-serif;
+  position: absolute;
+  left: 160px;
+  top: 23px;
+}
+.group4 {
+  position: absolute;
+  left: 21px;
+  top: 25px;
+  overflow: visible;
+}
+.conexiones {
+  color: #ffffff;
+  text-align: left;
+  font: 400 60px "Karantina", sans-serif;
+  position: absolute;
+  left: 150px;
+  top: 23px;
+}
+.frame-242 {
+  background: rgba(16, 46, 103, 0.63);
+  border-radius: 15px;
+  width: 430px;
+  height: 106px;
+  position: absolute;
+  left: 0px;
+  top: 563px;
+  overflow: hidden;
+}
+.vector12 {
+  position: absolute;
+  left: 26px;
+  top: 23px;
+  overflow: visible;
+}
+.personalizaci-n {
+  color: #ffffff;
+  text-align: left;
+  font: 400 60px "Karantina", sans-serif;
+  position: absolute;
+  left: 130px;
+  top: 22px;
+}
+.vector13 {
+  position: absolute;
+  left: 22px;
+  top: 18px;
+  overflow: visible;
+}
+.informacion {
+  color: #ffffff;
+  text-align: left;
+  font: 400 60px "Karantina", sans-serif;
+  position: absolute;
+  left: 154px;
+  top: 22px;
+}
+.group5 {
+  position: absolute;
+  left: 26px;
+  top: 136px;
+  overflow: visible;
+}

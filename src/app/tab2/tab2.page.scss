@@ -1,0 +1,146 @@
+.view-sign-up,
+.view-sign-up * {
+  box-sizing: border-box;
+}
+.view-sign-up {
+  background: linear-gradient(
+      180deg,
+      rgba(0, 40, 101, 0.18) 0%,
+      rgba(2, 20, 30, 0.2) 7.8125%,
+      rgba(11, 50, 72, 0.2) 39.58333432674408%,
+      rgba(13, 50, 74, 0.2) 39.59333300590515%,
+      rgba(124, 15, 161, 0) 100%
+    ),
+    linear-gradient(0deg, rgba(12, 34, 233, 0.2) 0%, rgba(0, 0, 0, 0) 100%),
+    linear-gradient(180deg, rgba(255, 0, 0, 0.2) 0%, rgba(0, 0, 0, 0) 100%),
+    linear-gradient(to left, #6d16dc, #6d16dc);
+  border-style: solid;
+  border-color: rgba(39, 18, 168, 0.13);
+  border-width: 1px;
+  width: 430px;
+  height: 932px;
+  position: relative;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  overflow: hidden;
+}
+.frame-6 {
+  background: #ffffff;
+  border-radius: 30px;
+  width: 394px;
+  height: 70px;
+  position: absolute;
+  left: 17px;
+  top: 435px;
+  overflow: hidden;
+}
+.frame-9 {
+  background: #d7d7d7;
+  border-radius: 30px;
+  width: 385px;
+  height: 52px;
+  position: absolute;
+  left: 4px;
+  top: 9px;
+  overflow: hidden;
+}
+.frame-5 {
+  background: #ffffff;
+  border-radius: 30px;
+  width: 394px;
+  height: 70px;
+  position: absolute;
+  left: 17px;
+  top: 296px;
+  overflow: hidden;
+}
+.frame-8 {
+  background: #d7d7d7;
+  border-radius: 30px;
+  width: 385px;
+  height: 52px;
+  position: absolute;
+  left: 4px;
+  top: 9px;
+  overflow: hidden;
+}
+.frame-4 {
+  background: #ffffff;
+  border-radius: 30px;
+  width: 394px;
+  height: 70px;
+  position: absolute;
+  left: 17px;
+  top: 158px;
+  overflow: hidden;
+}
+.frame-7 {
+  background: #d7d7d7;
+  border-radius: 30px;
+  width: 385px;
+  height: 52px;
+  position: absolute;
+  left: 4px;
+  top: 9px;
+  overflow: hidden;
+}
+.frame-3 {
+  background: #3ddcff;
+  border-radius: 30px;
+  width: 276px;
+  height: 77px;
+  position: absolute;
+  left: 77px;
+  top: 579px;
+  overflow: hidden;
+}
+.iniciar {
+  color: #000000;
+  text-align: left;
+  font: 400 60px "Karantina", sans-serif;
+  position: absolute;
+  left: 91px;
+  top: 11px;
+  width: 94px;
+  height: 54px;
+}
+.mdi-light-arrow-left-circle {
+  position: absolute;
+  left: 20px;
+  top: 20px;
+  overflow: visible;
+}
+.ya-tienes-cuenta-inicia-sesion {
+  color: #ffffff;
+  text-align: left;
+  font: 400 36px "Karantina", sans-serif;
+  text-decoration: underline;
+  position: absolute;
+  left: 71px;
+  top: 663px;
+  width: 308px;
+  height: 88px;
+}
+.nombre-de-usuario {
+  color: #ffffff;
+  text-align: left;
+  font: 400 30px "Karantina", sans-serif;
+  position: absolute;
+  left: 37px;
+  top: 109px;
+}
+.contrase-a-cuenta {
+  color: #ffffff;
+  text-align: left;
+  font: 400 30px "Karantina", sans-serif;
+  position: absolute;
+  left: 37px;
+  top: 385px;
+}
+.correo-electronico {
+  color: #ffffff;
+  text-align: left;
+  font: 400 30px "Karantina", sans-serif;
+  position: absolute;
+  left: 37px;
+  top: 247px;
+}

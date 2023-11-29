@@ -1,0 +1,147 @@
+.view-log-in,
+.view-log-in * {
+  box-sizing: border-box;
+}
+.view-log-in {
+  background: linear-gradient(
+      180deg,
+      rgba(0, 40, 101, 0.18) 0%,
+      rgba(2, 20, 30, 0.2) 7.8125%,
+      rgba(11, 50, 72, 0.2) 39.58333432674408%,
+      rgba(13, 50, 74, 0.2) 39.59333300590515%,
+      rgba(124, 15, 161, 0) 100%
+    ),
+    linear-gradient(0deg, rgba(12, 34, 233, 0.2) 0%, rgba(0, 0, 0, 0) 100%),
+    linear-gradient(180deg, rgba(255, 0, 0, 0.2) 0%, rgba(0, 0, 0, 0) 100%),
+    linear-gradient(to left, #6d16dc, #6d16dc);
+  border-style: solid;
+  border-color: rgba(39, 18, 168, 0.13);
+  border-width: 1px;
+  width: 430px;
+  height: 932px;
+  position: relative;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.frame-29 {
+  background: #ffffff;
+  border-radius: 30px;
+  width: 394px;
+  height: 70px;
+  position: absolute;
+  left: 18px;
+  top: 309px;
+  overflow: hidden;
+}
+.frame-34 {
+  background: #d7d7d7;
+  border-radius: 30px;
+  width: 385px;
+  height: 52px;
+  position: absolute;
+  left: 4px;
+  top: 9px;
+  overflow: hidden;
+}
+.frame-30 {
+  background: #e7c203;
+  border-radius: 30px;
+  width: 276px;
+  height: 77px;
+  position: absolute;
+  left: 77px;
+  top: 552px;
+  overflow: hidden;
+}
+.acceder-por-google {
+  color: #000000;
+  text-align: left;
+  font: 400 50px "Karantina", sans-serif;
+  position: absolute;
+  left: 18px;
+  top: 12px;
+  width: 299px;
+  height: 85px;
+}
+.frame-9 {
+  background: #00e7d9;
+  border-radius: 30px;
+  width: 276px;
+  height: 77px;
+  position: absolute;
+  left: 77px;
+  top: 667px;
+  overflow: hidden;
+}
+.acceder-por-d-s-m {
+  color: #000000;
+  text-align: left;
+  font: 400 50px "Karantina", sans-serif;
+  position: absolute;
+  left: 16px;
+  top: 13px;
+  width: 299px;
+  height: 85px;
+}
+.mdi-light-arrow-left-circle {
+  position: absolute;
+  left: 20px;
+  top: 20px;
+  overflow: visible;
+}
+.no-tienes-cuenta-crea-una-cuenta {
+  color: #ffffff;
+  text-align: left;
+  font: 400 36px "Karantina", sans-serif;
+  text-decoration: underline;
+  position: absolute;
+  left: 46px;
+  top: 773px;
+  width: 339px;
+  height: 88px;
+}
+.frame-8 {
+  background: #ffffff;
+  border-radius: 30px;
+  width: 394px;
+  height: 70px;
+  position: absolute;
+  left: 18px;
+  top: 184px;
+  overflow: hidden;
+}
+.correo-electronico-o-nombre-de-usuario {
+  color: #ffffff;
+  text-align: left;
+  font: 400 30px "Karantina", sans-serif;
+  position: absolute;
+  left: 35px;
+  top: 145px;
+}
+.contrase-a-cuenta {
+  color: #ffffff;
+  text-align: left;
+  font: 400 30px "Karantina", sans-serif;
+  position: absolute;
+  left: 35px;
+  top: 266px;
+}
+.frame-aceptar {
+  background: #3ddcff;
+  border-radius: 30px;
+  width: 276px;
+  height: 77px;
+  position: absolute;
+  left: 77px;
+  top: 421px;
+  overflow: hidden;
+}
+.aceptar {
+  color: #000000;
+  text-align: left;
+  font: 400 60px "Karantina", sans-serif;
+  position: absolute;
+  left: 82px;
+  top: 4px;
+  width: 127px;
+  height: 54px;
+}

@@ -1,0 +1,92 @@
+.view-start,
+.view-start * {
+  box-sizing: border-box;
+  font-family: "Karantina", sans-serif; /* Estilos de fuente */
+}
+
+.view-start {
+  display: grid;
+  grid-template-areas:
+    "stream-deck-movil"
+    "inscribirse"
+    "acceder";
+  grid-template-rows: 1fr 1fr 1fr;
+  gap: 1.25rem; /* Espacio entre elementos */
+  background: linear-gradient(
+    180deg,
+    rgba(0, 40, 101, 0.18) 0%,
+    rgba(2, 20, 30, 0.2) 7.8125%,
+    rgba(11, 50, 72, 0.2) 39.58333432674408%,
+    rgba(13, 50, 74, 0.2) 39.59333300590515%,
+    rgba(124, 15, 161, 0) 100%
+  ),
+  linear-gradient(0deg, rgba(12, 34, 233, 0.2) 0%, rgba(0, 0, 0, 0) 100%),
+  linear-gradient(180deg, rgba(255, 0, 0, 0.2) 0%, rgba(0, 0, 0, 0) 100%),
+  linear-gradient(to left, #6d16dc, #6d16dc);
+  border-style: solid;
+  border-color: rgba(39, 18, 168, 0.13);
+  border-width: 0.063rem;
+  width: 26.875rem;
+  height: 58.25rem;
+  position: relative;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  overflow: hidden;
+}
+
+.stream-deck-movil {
+  grid-area: "stream-deck-movil";
+  color: #ffffff;
+  font-size: 5.625rem; /* Tamaño de fuente */
+  align-self: center; /* Centrar verticalmente */
+  justify-self: start; /* Alineación a la izquierda */
+}
+
+.inscribirse {
+  grid-area: "inscribirse";
+  background: #3ddcff;
+  border-radius: 1.875rem;
+  color: #000000;
+  font-size: 4.550rem; /* Tamaño de fuente */
+  text-align: left;
+  display: flex;
+  align-items: center; /* Centrar verticalmente */
+  padding: 0.625rem 1.25rem; /* Espaciado interno */
+  cursor: pointer; /* Cambia el cursor al pasar el ratón */
+}
+
+.frame-1 {
+  grid-area: "acceder";
+  background: #3ddcff;
+  border-radius: 1.875rem;
+  color: #000000;
+  font-size: 5.625rem; /* Tamaño de fuente */
+  text-align: left;
+  display: flex;
+  align-items: center; /* Centrar verticalmente */
+  padding: 0.625rem 1.25rem; /* Espaciado interno */
+  cursor: pointer; /* Cambia el cursor al pasar el ratón */
+}
+.frame-2 {
+  grid-area: "inscribirse"; /* Para que ocupe el mismo espacio que el botón Inscribirse */
+  background: #3ddcff;
+  border-radius: 1.875rem;
+  color: #000000;
+  font-size: 5.625rem; /* Tamaño de fuente */
+  text-align: left;
+  display: flex;
+  align-items: center; /* Centrar verticalmente */
+  padding: 0.625rem 1.25rem; /* Espaciado interno */
+  cursor: pointer; /* Cambia el cursor al pasar el ratón */
+}
+.acceder {
+  grid-area: "acceder"; /* Para que ocupe el mismo espacio que el botón Acceder */
+  background: #3ddcff;
+  border-radius: 1.875rem;
+  color: #000000;
+  font-size: 4.550rem; /* Tamaño de fuente */
+  text-align: left;
+  display: flex;
+  align-items: center; /* Centrar verticalmente */
+  padding: 0.625rem 3.00rem; /* Espaciado interno */
+  cursor: pointer; /* Cambia el cursor al pasar el ratón */
+}

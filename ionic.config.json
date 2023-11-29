@@ -1,0 +1,7 @@
+{
+  "name": "adapAppStreamDeck",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
